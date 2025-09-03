@@ -87,7 +87,7 @@ node_filesystem_free_bytes{fstype="ext4",instance="nodeexporter:9100",job="nodee
 1. Сохраните ваш Dashboard. Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
 
-
+https://github.com/Mars12121/10-monitoring-03-grafana/blob/main/JSON%20Model
 ---
 
 ### Как оформить решение задания
